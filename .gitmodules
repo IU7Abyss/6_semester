@@ -1,0 +1,18 @@
+[submodule "logic-programming"]
+	path = logic-programming
+	url = https://ifokeev@github.com/IU7Abyss/logic-programming.git
+[submodule "mathematical-statistics"]
+	path = mathematical-statistics
+	url = https://ifokeev@github.com/IU7Abyss/mathematical-statistics.git
+[submodule "scientific-modelling"]
+	path = scientific-modelling
+	url = https://ifokeev@github.com/IU7Abyss/Scientific-Modelling-LW.git
+[submodule "operating-systems"]
+	path = operating-systems
+	url = https://ifokeev@github.com/IU7Abyss/Operating-Systems-LW.git
+[submodule "functional-programming"]
+	path = functional-programming
+	url = https://ifokeev@github.com/IU7Abyss/Functional-Programming-LW.git
+[submodule "mathematical-statistics-lections"]
+	path = mathematical-statistics-lections
+	url = https://ifokeev@github.com/IU7Abyss/Mathematical-Statistics-Lections.git
